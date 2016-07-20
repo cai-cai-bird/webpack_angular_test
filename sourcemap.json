@@ -1,4 +1,3 @@
 {
-	"jquery":"jquery/dist/jquery.min.js",
-	"angular":"angular/angular.min.js"
+	"jquery":"jquery/dist/jquery.min.js"
 }
