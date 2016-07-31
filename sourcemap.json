@@ -1,3 +1,4 @@
 {
-	"jquery":"jquery/dist/jquery.min.js"
+	"jquery":"jquery/dist/jquery.min.js",
+	"ngRoute":"angular-route/angular-route.min.js"
 }
